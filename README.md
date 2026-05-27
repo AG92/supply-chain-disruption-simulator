@@ -1,4 +1,5 @@
 # Oil Supply Risk Dashboard
+<img width="2485" height="1234" alt="app_img" src="https://github.com/user-attachments/assets/cd06bba4-1163-470d-bf1f-74cf2833b9f1" />
 
 A Python Streamlit MVP dashboard for visualizing major oil supply routes, chokepoints, market prices and scenario-based gasoline price impact estimates.
 
